@@ -1,6 +1,11 @@
 # Zero-Shot Evaluation of CLIP Models on Compositional Datasets
 
+
 ## Description
+
+| ![CLIP](https://raw.githubusercontent.com/mlfoundations/open_clip/main/docs/CLIP.png) |
+|:--:|
+| Image Credit: https://github.com/openai/CLIP |
 
 This project provides a comprehensive benchmark for evaluating the zero-shot performance of CLIP models on novel compositional concepts.
 
